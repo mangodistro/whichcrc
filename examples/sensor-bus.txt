@@ -1,0 +1,6 @@
+# Four frames from an imaginary sensor bus: address, function, payload,
+# then a 2-byte checksum. Which CRC is it, and which way round is it stored?
+01 04 02 00 e7 f9 7a
+01 04 02 01 02 39 61
+02 04 04 00 e7 01 9c 79 4a
+03 06 00 10 00 2a 08 32

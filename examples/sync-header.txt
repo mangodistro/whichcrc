@@ -1,0 +1,9 @@
+# Every frame starts with the sync bytes aa 55, and the checksum is a
+# 16-bit CRC with a polynomial (0x2f15) that no standard uses. Try:
+#   whichcrc find --skip 0-3 -f examples/sync-header.txt
+aa 55 01 10 00 e7 07 03
+aa 55 01 10 01 02 10 c7
+aa 55 02 11 00 e7 01 9c 51 93
+aa 55 03 20 2a 91 b0
+aa 55 01 10 00 e8 00 13 62
+aa 55 04 30 a5 55

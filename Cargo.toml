@@ -1,0 +1,12 @@
+[package]
+name = "whichcrc"
+version = "0.1.0"
+edition = "2021"
+description = "Work out which CRC algorithm produced the checksums in captured frames"
+license = "MIT"
+repository = "https://github.com/mangodistro/whichcrc"
+readme = "README.md"
+keywords = ["crc", "checksum", "reverse-engineering", "protocol"]
+categories = ["command-line-utilities"]
+
+[dependencies]

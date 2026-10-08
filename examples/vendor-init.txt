@@ -1,0 +1,7 @@
+# A device that uses CCITT's polynomial with an init value of its own, so
+# no catalogue lists it. Five frames of four different lengths.
+7e 01 10 00 e7 4c 16
+7e 01 10 01 02 37 bf
+7e 02 11 00 e7 01 9c 75 da
+7e 03 20 2a d3 70
+7e 01 10 00 e8 00 b6 0b
